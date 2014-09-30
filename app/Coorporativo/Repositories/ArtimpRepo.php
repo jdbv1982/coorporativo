@@ -6,15 +6,15 @@ class ArtimpRepo {
 
     public function setArticulo($data){
         foreach($data as $dato) {
-            /* $articulo = $this->verificaArticulo($dato[0], $dato[1]);
+             $articulo = $this->verificaArticulo($dato[0], $dato[1]);
              if ($articulo == 'false') {
                  $this->insertaArticulo($dato);
              } else {
                  $this->actualizaArticulo($dato, $articulo);
-             }*/
-            return $this->activarImportacion($dato[1]);
+             }
+            $this->activarImportacion($dato[1]);
         }
-        //return "true";
+        return "true";
     }
 
     public function insertaArticulo($data){
@@ -47,9 +47,12 @@ class ArtimpRepo {
     public function activarImportacion($numart){
         $sql = "select flgart from maeart where numart = " . "'$numart'";
         $flag = DB::select(DB::raw($sql));
+        $flag = $flag[0]->FLGART;
+        $flag = substr_replace($flag, 'S', 0, 1);
 
-        return $flag;
-
+        $sql = "update maeart set flgart = " . "'$flag'" ." where numart =". "'$numart'";
+        DB::update(DB::raw($sql));
+        //NNNRN11NNN
     }
 
 }

@@ -24,58 +24,7 @@
     <favorites_list name="corporativo" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="MaeimpRepo.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Coorporativo/Repositories/MaeimpRepo.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5652174" vertical-offset="32" max-vertical-offset="748">
-              <caret line="21" column="37" selection-start-line="19" selection-start-column="8" selection-end-line="21" selection-end-column="37" />
-              <folding>
-                <marker date="1412046560110" expanded="true" signature="503:627" placeholder="INSERT INTO ..." />
-                <marker date="1412046560110" expanded="true" signature="738:784" placeholder="select pedim..maeimp..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArtimpRepo.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Coorporativo/Repositories/ArtimpRepo.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.153846" vertical-offset="296" max-vertical-offset="1020">
-              <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
-              <folding>
-                <marker date="1412053074323" expanded="true" signature="570:645" placeholder="INSERT INTO ..." />
-                <marker date="1412053074323" expanded="true" signature="842:871" placeholder="update artim..." />
-                <marker date="1412053074323" expanded="true" signature="842:872" placeholder="update artim..." />
-                <marker date="1412053074323" expanded="true" signature="842:904" placeholder="update artim..." />
-                <marker date="1412053074323" expanded="true" signature="842:905" placeholder="update artim..." />
-                <marker date="1412053074323" expanded="true" signature="842:920" placeholder="update artim..." />
-                <marker date="1412053074323" expanded="true" signature="842:923" placeholder="update artim..." />
-                <marker date="1412053074323" expanded="true" signature="842:938" placeholder="update artim..." />
-                <marker date="1412053074323" expanded="true" signature="842:939" placeholder="update artim..." />
-                <marker date="1412053074323" expanded="true" signature="842:945" placeholder="update artim..." />
-                <marker date="1412053074323" expanded="true" signature="842:954" placeholder="update artim..." />
-                <marker date="1412053074323" expanded="true" signature="1087:1155" placeholder="select * fro..artimp..." />
-                <marker date="1412053074323" expanded="true" signature="1355:1431" placeholder="select canar..artimp..." />
-                <marker date="1412053074323" expanded="true" signature="1561:1601" placeholder="select flgar..maeart..." />
-                <marker date="1412053074323" expanded="true" signature="1561:1615" placeholder="select flgar..maeart..." />
-                <marker date="1412053074323" expanded="true" signature="1561:1616" placeholder="select flgar..maeart..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="master.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/assets/js/master.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="389" max-vertical-offset="1003">
-              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -111,8 +60,8 @@
         <option value="$PROJECT_DIR$/app/views/utilerias/pedimento.blade.php" />
         <option value="$PROJECT_DIR$/app/Coorporativo/Repositories/MaeimpRepo.php" />
         <option value="$PROJECT_DIR$/public/assets/js/master.js" />
-        <option value="$PROJECT_DIR$/app/Coorporativo/Repositories/ArtimpRepo.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/Coorporativo/Repositories/ArtimpRepo.php" />
       </list>
     </option>
   </component>
@@ -247,7 +196,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1378" height="740" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -255,7 +204,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22474378" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22474378" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917318" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -304,8 +253,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="32" max-vertical-offset="748">
           <caret line="21" column="37" selection-start-line="19" selection-start-column="8" selection-end-line="21" selection-end-column="37" />
           <folding>
-            <marker date="1412046560110" expanded="true" signature="503:627" placeholder="INSERT INTO ..." />
-            <marker date="1412046560110" expanded="true" signature="738:784" placeholder="select pedim..maeimp..." />
+            <marker date="1412046560110" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1412046560110" expanded="true" signature="-1:-1" placeholder="select pedim..maeimp..." />
           </folding>
         </state>
       </provider>
@@ -315,22 +264,26 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1412053074323" expanded="true" signature="570:645" placeholder="INSERT INTO ..." />
-            <marker date="1412053074323" expanded="true" signature="842:871" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:872" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:904" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:905" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:920" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:923" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:938" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:939" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:945" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:954" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="1087:1155" placeholder="select * fro..artimp..." />
-            <marker date="1412053074323" expanded="true" signature="1355:1431" placeholder="select canar..artimp..." />
-            <marker date="1412053074323" expanded="true" signature="1561:1601" placeholder="select flgar..maeart..." />
-            <marker date="1412053074323" expanded="true" signature="1561:1615" placeholder="select flgar..maeart..." />
-            <marker date="1412053074323" expanded="true" signature="1561:1616" placeholder="select flgar..maeart..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="select * fro..artimp..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="select canar..artimp..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="select flgar..maeart..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="select flgar..maeart..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="select flgar..maeart..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update maear..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update maear..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update maear..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update maear..." />
           </folding>
         </state>
       </provider>
@@ -377,22 +330,26 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="37" max-vertical-offset="867">
           <caret line="8" column="64" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="64" />
           <folding>
-            <marker date="1412053074323" expanded="true" signature="570:645" placeholder="INSERT INTO ..." />
-            <marker date="1412053074323" expanded="true" signature="842:871" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:872" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:904" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:905" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:920" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:923" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:938" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:939" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:945" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:954" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="1087:1155" placeholder="select * fro..artimp..." />
-            <marker date="1412053074323" expanded="true" signature="1355:1431" placeholder="select canar..artimp..." />
-            <marker date="1412053074323" expanded="true" signature="1561:1601" placeholder="select flgar..maeart..." />
-            <marker date="1412053074323" expanded="true" signature="1561:1615" placeholder="select flgar..maeart..." />
-            <marker date="1412053074323" expanded="true" signature="1561:1616" placeholder="select flgar..maeart..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="select * fro..artimp..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="select canar..artimp..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="select flgar..maeart..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="select flgar..maeart..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="select flgar..maeart..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update maear..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update maear..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update maear..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update maear..." />
           </folding>
         </state>
       </provider>
@@ -402,8 +359,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1412046560110" expanded="true" signature="503:627" placeholder="INSERT INTO ..." />
-            <marker date="1412046560110" expanded="true" signature="738:784" placeholder="select pedim..maeimp..." />
+            <marker date="1412046560110" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1412046560110" expanded="true" signature="-1:-1" placeholder="select pedim..maeimp..." />
           </folding>
         </state>
       </provider>
@@ -442,8 +399,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1412046560110" expanded="true" signature="503:627" placeholder="INSERT INTO ..." />
-            <marker date="1412046560110" expanded="true" signature="738:784" placeholder="select pedim..maeimp..." />
+            <marker date="1412046560110" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1412046560110" expanded="true" signature="-1:-1" placeholder="select pedim..maeimp..." />
           </folding>
         </state>
       </provider>
@@ -648,39 +605,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/js/master.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="389" max-vertical-offset="1003">
-          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Coorporativo/Repositories/ArtimpRepo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.153846" vertical-offset="296" max-vertical-offset="1020">
-          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
-          <folding>
-            <marker date="1412053074323" expanded="true" signature="570:645" placeholder="INSERT INTO ..." />
-            <marker date="1412053074323" expanded="true" signature="842:871" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:872" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:904" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:905" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:920" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:923" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:938" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:939" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:945" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="842:954" placeholder="update artim..." />
-            <marker date="1412053074323" expanded="true" signature="1087:1155" placeholder="select * fro..artimp..." />
-            <marker date="1412053074323" expanded="true" signature="1355:1431" placeholder="select canar..artimp..." />
-            <marker date="1412053074323" expanded="true" signature="1561:1601" placeholder="select flgar..maeart..." />
-            <marker date="1412053074323" expanded="true" signature="1561:1615" placeholder="select flgar..maeart..." />
-            <marker date="1412053074323" expanded="true" signature="1561:1616" placeholder="select flgar..maeart..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23089983" vertical-offset="0" max-vertical-offset="589">
@@ -689,14 +613,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/Coorporativo/Repositories/ArtimpRepo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41391304" vertical-offset="0" max-vertical-offset="1071">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding>
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update artim..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="select * fro..artimp..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="select canar..artimp..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="select flgar..maeart..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="select flgar..maeart..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="select flgar..maeart..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update maear..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update maear..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update maear..." />
+            <marker date="1412055865140" expanded="true" signature="-1:-1" placeholder="update maear..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/Coorporativo/Repositories/MaeimpRepo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5652174" vertical-offset="32" max-vertical-offset="748">
-          <caret line="21" column="37" selection-start-line="19" selection-start-column="8" selection-end-line="21" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.8226087" vertical-offset="173" max-vertical-offset="748">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
           <folding>
-            <marker date="1412046560110" expanded="true" signature="503:627" placeholder="INSERT INTO ..." />
-            <marker date="1412046560110" expanded="true" signature="738:784" placeholder="select pedim..maeimp..." />
+            <marker date="1412046560110" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1412046560110" expanded="true" signature="-1:-1" placeholder="select pedim..maeimp..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/js/master.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8338762" vertical-offset="389" max-vertical-offset="1003">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
