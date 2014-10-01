@@ -20,8 +20,7 @@ class MaeimpRepo {
         $fecha = $data[2];
         $time = strtotime($fecha);
         $fecha = date('d-m-Y',$time);
-
-
+        $fecha = str_replace("-",".",$fecha);
         $sql = "INSERT INTO MAEIMP (PEDIMP, ADIMP, FECIMP, LOTIMP, REFIMP) VALUES ('$data[0]', '$data[1]', '$fecha', '$data[3]', '$data[4]')";
         DB::insert($sql);
 

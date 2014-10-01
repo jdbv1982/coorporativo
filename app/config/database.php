@@ -84,7 +84,7 @@ return array(
 		),
 		'odbc' => array(
             'driver' => 'odbc',
-            'dsn' => 'DRIVER=Firebird/InterBase(r) driver;UID=SYSDBA;PWD=050954ICA;DBNAME=C:\VILEBREQUIN.FDB;',
+            'dsn' => 'DRIVER=Firebird/InterBase(r) driver;UID=SYSDBA;PWD=050954ICA;DBNAME=C:\Users\develop\Documents\KEDNUS1.FDB;',
             'grammar' => 'DB2',
             'username' => 'SYSDBA',
             'password' => '050954ICA',

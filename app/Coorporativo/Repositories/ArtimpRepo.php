@@ -21,7 +21,8 @@ class ArtimpRepo {
         $fecha = $data[3];
         $time = strtotime($fecha);
         $fecha = date('d-m-Y',$time);
-        $sql = "INSERT INTO ARTIMP (PEDIMP, NUMART, CANARTIMP) VALUES ('$data[0]', '$data[1]', $data[2])";
+        $fecha = str_replace("-",".",$fecha);
+        $sql = "INSERT INTO ARTIMP (PEDIMP, NUMART, CANARTIMP, FECDIMP) VALUES ('$data[0]', '$data[1]', $data[2], '$fecha')";
         DB::insert(DB::raw($sql));
     }
 
