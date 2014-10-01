@@ -18,7 +18,11 @@ class ArtimpRepo {
     }
 
     public function insertaArticulo($data){
-        DB::insert("INSERT INTO ARTIMP (PEDIMP, NUMART, CANARTIMP, FECDIMP) VALUES (?, ?, ?, ?)", [$data[0], $data[1], $data[2], $data[3]]);
+        $fecha = $data[3];
+        $time = strtotime($fecha);
+        $fecha = date('d-m-Y',$time);
+        $sql = "INSERT INTO ARTIMP (PEDIMP, NUMART, CANARTIMP) VALUES ('$data[0]', '$data[1]', $data[2])";
+        DB::insert(DB::raw($sql));
     }
 
     public function actualizaArticulo($data, $articulo){
