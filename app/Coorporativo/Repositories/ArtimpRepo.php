@@ -6,13 +6,15 @@ class ArtimpRepo {
 
     public function setArticulo($data){
         foreach($data as $dato) {
-             $articulo = $this->verificaArticulo($dato[0], $dato[1]);
-             if ($articulo == 'false') {
-                 $this->insertaArticulo($dato);
-             } else {
-                 $this->actualizaArticulo($dato, $articulo);
-             }
-            $this->activarImportacion($dato[1]);
+            if($dato[0] != ''){
+                $articulo = $this->verificaArticulo($dato[0], $dato[1]);
+                if ($articulo == 'false') {
+                    $this->insertaArticulo($dato);
+                } else {
+                    $this->actualizaArticulo($dato, $articulo);
+                }
+                $this->activarImportacion($dato[1]);
+            }
         }
         return "true";
     }

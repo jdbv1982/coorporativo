@@ -7,9 +7,11 @@ class MaeimpRepo {
     public function setPedimento($data)
     {
         foreach($data as $dato){
-            $pedimento = $this->verificaDato($dato[0]);
-            if($pedimento == 'false'){
-                $this->insertaDato($dato);
+            if($dato[0] != '') {
+                $pedimento = $this->verificaDato($dato[0]);
+                if ($pedimento == 'false') {
+                    $this->insertaDato($dato);
+                }
             }
         }
 
